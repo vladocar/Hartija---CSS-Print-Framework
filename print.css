@@ -43,7 +43,7 @@ abbr[title]:after { content: " (" attr(title) ")"; }
 a[href^="http://"] {color:#000; }
 a[href$=".jpg"]:after, a[href$=".jpeg"]:after, a[href$=".gif"]:after, a[href$=".png"]:after { content: " (" attr(href) ") "; display:none; }
 
-/* Don't show links that are fragment identifiers, or use the `javascript:` pseudo protocol */
+/* Don't show links that are fragment identifiers, or use the `javascript:` pseudo protocol .. taken from html5boilerplate */
 a[href^="#"]:after, a[href^="javascript:"]:after {content: "";}
 
 /* Table */
