@@ -17,3 +17,8 @@ Only work you need to do is **hide** the stuff you don't need in the final print
 ```sh
 #navbar, #footer, #someOtherID, .someClass, .otherClass { display : none; }
 ```
+
+[Demo](hartija.html)
+
+
+http://vladocar.github.io/Hartija---CSS-Print-Framework/
