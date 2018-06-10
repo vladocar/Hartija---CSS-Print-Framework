@@ -19,3 +19,12 @@ Only work you need to do is **hide** the stuff you don't need in the final print
 ```
 
 http://vladocar.github.io/Hartija---CSS-Print-Framework/
+
+
+[Demo Hartija](http://vladocar.github.io/Hartija---CSS-Print-Framework/hartija.html)
+
+
+### License
+
+This project is licensed under the MIT License
+
