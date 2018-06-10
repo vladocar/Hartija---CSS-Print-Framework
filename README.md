@@ -23,6 +23,16 @@ http://vladocar.github.io/Hartija---CSS-Print-Framework/
 
 [Demo Hartija](http://vladocar.github.io/Hartija---CSS-Print-Framework/hartija.html)
 
+### You can use direct download or:
+
+```sh
+npm i hartija---css-print-framework 
+```
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/hartija---css-print-framework@1.0.0/print.css" type="text/css" media="print" charset="utf-8">
+```
+
 
 ### License
 
