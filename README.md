@@ -36,5 +36,5 @@ npm i hartija---css-print-framework
 
 ### License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://github.com/vladocar/Hartija---CSS-Print-Framework/blob/master/LICENSE)
 
